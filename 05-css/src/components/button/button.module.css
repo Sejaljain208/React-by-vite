@@ -1,0 +1,15 @@
+.btn{
+    background-color: #c52222; /*Red */
+    width: fit-content;
+    height: fit-content;
+    padding: 14px 24px;
+    margin: 0px;
+    border-radius: 1cqmax;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s ease;
+    justify-content: space-between;
+    align-items: center;
+}
+
