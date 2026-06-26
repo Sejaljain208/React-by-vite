@@ -1,0 +1,10 @@
+/* phle tailwind css google karna , or first website par jana .
+1) click on "get started" -> "using vite"
+2) create folder in vs code by vite 
+3) website par step-2 hai usko terminal mai chala na jab aap ussi folder ke andar ho
+4) website par jo step-3 hai  , uss code ki 2 line ko , usko vite.config.js file mai add karna or phir issi file mai tailwindcss() ko react() ke aage likhna .
+5) website par step-4 mai jo code hai , usko index.css file mai add karna . 
+ */
+
+
+@import "tailwindcss";
